@@ -1,0 +1,35 @@
+body {
+    height: 4000px;
+}
+#div1 {
+    position: absolute;
+    border: black solid 2.5px;
+    height: 100px;
+    width: 100px;
+}
+#div2 {
+    position: absolute;
+    border: black solid 2.5px;
+    top: 75px;
+    left: 65px;
+    height: 110px;
+    width: 100px;
+    background: white;
+}
+#div3 {
+    position:absolute;
+    border: black solid 2.5px;
+    top: 150px;
+    left: 15px;
+    background: white;
+    height: 100px;
+    width: 320px;
+}
+#div4 {
+    position: absolute;
+    border: black solid 2.5px;
+    left: 270px;
+    height: 300px;
+    background: white;
+    width: 50px;
+}
